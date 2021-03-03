@@ -1,0 +1,9 @@
+.vscode
+/venv
+audios/*
+tmp/*
+garbage/*
+dask-worker-space/*
+data/*
+.ipynb_checkpoints
+__pycache__
